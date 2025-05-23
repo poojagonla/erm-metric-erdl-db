@@ -7,6 +7,6 @@ CREATE TABLE Employees (
 
 -- Insert some records into the table
 INSERT INTO Employees (id, name, age, department) VALUES
-(1, 'Alice', 30, 'HR'),
-(2, 'Bob', 28, 'IT'),
-(3, 'CharlMarlieie', 35, 'Finance');
+(1, 'ALICE', 30, 'HR'),
+(2, 'BOB', 28, 'IT'),
+(3, 'CHARLIE', 35, 'Finance');
